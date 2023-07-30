@@ -1,0 +1,44 @@
+# Archivos y carpetas generados por el compilador de C#
+bin/
+obj/
+
+# Archivos de respaldo y caché generados por Visual Studio
+*.user
+*.vs/
+*.vscode/
+
+# Archivos de respaldo generados por ReSharper
+_ReSharper*/
+
+# Archivos de registro
+*.log
+*.vsix.log
+
+# Archivos temporales generados por el sistema
+[Tt]emp/
+obj/
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# Archivos de compilación de Visual Studio
+*.dll
+*.pdb
+*.exe
+*.pdb
+*.dll.config
+
+# Archivos de caché de NuGet
+*.nuget.props
+*.nuget.targets
+*.nuget.cache
+
+# Otros archivos y carpetas que se deben ignorar
+packages/
+*.suo
+*.cache
+*.DS_Store
+*.dotCover
+*.dotsettings
+*.sln.ide
+*.sln.docstates
+
